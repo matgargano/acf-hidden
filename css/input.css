@@ -1,3 +1,7 @@
-div[data-field_type='hidden']{
+div[data-field_type='hidden'],
+div[data-type="hidden"],
+th[data-field_type='hidden'],
+th[data-type='hidden']
+{
 	display:none;
 }
