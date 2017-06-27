@@ -2,6 +2,8 @@ div[data-field_type='hidden'],
 div[data-type="hidden"],
 th[data-field_type='hidden'],
 th[data-type='hidden']
-{
+td[data-field_type='hidden'],
+th[data-type='hidden'],
+td[data-type='hidden']{
 	display:none;
 }
