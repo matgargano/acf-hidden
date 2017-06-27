@@ -1,0 +1,18 @@
+{
+  "name": "erickertz/acf-hidden",
+  "description": "A hidden field for Advanced Custom Fields",
+  "keywords": ["wordpress"],
+  "license": "GPL-3.0+",
+  "authors": [
+  	{
+  		"name": "Eric Kertz",
+  		"email": "erickertz@gmail.com"
+  	},
+    {
+      "name": "Mat Gargano",
+      "email": "mgargano@penguinrandomhouse.com"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
+
