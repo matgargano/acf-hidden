@@ -4,7 +4,7 @@
 Plugin Name: Advanced Custom Fields: Hidden Field
 Plugin URI: http://1trickpony.com
 Description: A hidden field for Advanced Custom Fields
-Version: 1.0.2
+Version: 1.0.3
 Author: erictr1ck
 Author URI: http://1trickpony.com
 License: GPLv2 or later
