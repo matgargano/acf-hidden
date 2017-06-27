@@ -6,6 +6,7 @@ Tested up to: 3.8.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0.2
 
 A hidden field for Advanced Custom Fields
 
@@ -27,6 +28,12 @@ This ACF field type is compatible with:
 4. Please refer to the description for more info regarding the field type settings
 
 == Changelog ==
+
+= 1.0.2 =
+* Fix bug where script was not getting enqueued
+
+= 1.0.1 =
+* Add ability to hide fields on the render side in admin panel (HT: jasperSpeicher)
 
 = 1.0.0 =
 * Initial Release.
